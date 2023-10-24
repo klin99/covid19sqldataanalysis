@@ -2,7 +2,7 @@
 # This excel data contains 35000+ entries worldwide ranging from dates 01/22/2020 to 07/27/2020
 # The columns include country/region, confirmed cases, deaths, recovered, active cases, new cases, new deaths, new recovered
 
-# The goal of exploring and analyzing this data is to find out: 
+# The goal of using SQL to exploring and analyzing this data is to find out: 
 # 1) Chances of death if contracted with the virus at any given country/region
 # 2) Chances of survival per 100 cases
 # 3) Top countries/regions with the highest infectivity/new cases at any given week
